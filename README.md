@@ -543,7 +543,11 @@ PS2EXE-kompilierte Skripte werden von einigen Antivirus-Produkten fälschlicherw
 ## Autoren
 
 **Felix Natterer** & **Julian Wendland**  
-[L-EDV IT-Service](https://www.l-edv.de) – Heilbronn
+L-EDV GmbH & Co. KG
+Obere Sackgasse 15 
+71332 Waiblingen
+[L-EDV IT-Service](https://www.l-edv.de) – Waiblingen
+
 
 ---
 
