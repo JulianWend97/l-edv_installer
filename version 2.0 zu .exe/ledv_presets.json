@@ -1,0 +1,30 @@
+﻿{
+    "Standard Preset":  {
+                            "Teams":  false,
+                            "Wifi":  false,
+                            "TeraCopy":  false,
+                            "VLC":  true,
+                            "Firefox":  true,
+                            "DesktopIcons":  false,
+                            "PDF24":  false,
+                            "EdgeSC":  false,
+                            "Greenshot":  false,
+                            "Irfan":  false,
+                            "Updates":  true,
+                            "Notepad":  false,
+                            "OneDrive":  false,
+                            "Bloatware":  false,
+                            "TreeSize":  false,
+                            "SysRestore":  false,
+                            "Protocols":  false,
+                            "Libre":  true,
+                            "Thunderbird":  true,
+                            "TVQS":  false,
+                            "AppSuggest":  false,
+                            "F8":  false,
+                            "Adobe":  false,
+                            "Chrome":  false,
+                            "7zip":  false,
+                            "Annoyances":  false
+                        }
+}
